@@ -1,0 +1,35 @@
+{
+  "name": "hermione-log-pointer",
+  "version": "0.0.1",
+  "description": "Hermione plugin to log pointer movements and clicks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dustyo-O/hermione-log-pointer.git"
+  },
+  "keywords": [
+    "hermione",
+    "hermione",
+    "plugin",
+    "hermione",
+    "debug",
+    "log",
+    "pointer",
+    "log",
+    "cursor"
+  ],
+  "author": "Alexandr Shleyko <a.shleyko@yandex.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dustyo-O/hermione-log-pointer/issues"
+  },
+  "homepage": "https://github.com/dustyo-O/hermione-log-pointer#readme",
+  "dependencies": {
+    "debug": "4.1.1",
+    "gemini-configparser": "1.0.0",
+    "yargs-parser": "11.1.1"
+  }
+}
